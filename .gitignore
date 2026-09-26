@@ -1,0 +1,6 @@
+latest.yml
+latest-linux.yml
+beta.yml
+*.exe
+*.AppImage
+*.deb
